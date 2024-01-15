@@ -1,4 +1,4 @@
-# Crypto Pulse
+# Crypto Sprint
 ## A React application that allows users to get data of various crypto currencies.
 ## Author - Varun Chauhan
 
@@ -33,6 +33,8 @@
     1. The data is available of top 100 crypto currencies.
     2. If you want to search for a particular coin, you can use the search bar provided.
 
+* You can preview it here https://crypto-sprint.netlify.app/
+  
 ### Contribution
 
 * Contributions are welcome! Feel free to open issues or submit pull requests.
