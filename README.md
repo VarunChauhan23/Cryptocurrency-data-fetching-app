@@ -32,8 +32,6 @@
 * Open the app in your web browser at http://localhost:3000.
     1. The data is available of top 100 crypto currencies.
     2. If you want to search for a particular coin, you can use the search bar provided.
-
-* You can preview it here https://crypto-sprint.netlify.app/
   
 ### Contribution
 
